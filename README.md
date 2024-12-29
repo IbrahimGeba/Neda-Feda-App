@@ -15,10 +15,12 @@
 # Driver Information
 ![image](https://github.com/user-attachments/assets/021e90de-ea9f-4ea6-95fb-e9bad88d395b)
 # Customer Registeration
-![image](https://github.com/user-attachments/assets/d3718410-5b47-40b0-8459-a95bfd1eada5)
+![image](https://github.com/user-attachments/assets/e93a9d0c-aafc-44a8-a856-a7ea95a1355b)
 # Customer Home Screen 
 ![image](https://github.com/user-attachments/assets/aebec344-727b-43f7-be9b-58fd72f22bee)
 ![image](https://github.com/user-attachments/assets/41d958dc-6f0c-4f88-b25b-c5c2a54579ac)
+# Trader Registerarion
+![image](https://github.com/user-attachments/assets/8cbef1bf-6e33-4f14-9ede-c3fdd42e8345)
 # Trader Add Shop
 ![image](https://github.com/user-attachments/assets/fa6c0644-5199-439c-954f-7f5fcf23b8e9)
 # Trade Home Screen
